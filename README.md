@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ZendSkeletonApplication
 =======================
 
@@ -76,9 +75,4 @@ project and you should be ready to go! It should look something like below:
             Allow from all
         </Directory>
     </VirtualHost>
-=======
-inventory
-=========
 
-inventory
->>>>>>> eb66fd4a977c4da1fba39d8ea296866498264e2c
